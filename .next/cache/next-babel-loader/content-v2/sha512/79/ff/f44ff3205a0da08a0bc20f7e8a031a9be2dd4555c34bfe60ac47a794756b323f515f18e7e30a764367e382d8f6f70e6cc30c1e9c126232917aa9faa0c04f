@@ -1,0 +1,1 @@
+{"ast":null,"code":"const MeetupDetails = () => {};\n\nret;","map":{"version":3,"sources":["C:/Users/user/NextJs/my-second-next-app/pages/[meetupId]/index.js"],"names":["MeetupDetails","ret"],"mappings":"AAAA,MAAMA,aAAa,GAAG,MAAM,CAE3B,CAFD;;AAIAC,GAAG","sourcesContent":["const MeetupDetails = () => {\r\n\r\n}\r\n\r\nret"]},"metadata":{},"sourceType":"script"}
